@@ -63,7 +63,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2014|IJCV|A Comprehensive Survey to Face Hallucination|\[[paper](https://d1wqtxts1xzle7.cloudfront.net/48096013/A_Comprehensive_Survey_to_Face_Hallucina20160816-23072-psaoh5-with-cover-page-v2.pdf?Expires=1667883349&Signature=CO8qTT-ea~qrcn7G6PXKe7lgy8ZephuTzx-9sZx5hJkkZOZipg8ufrsKifsOBKiYoHoNurU9fIcAcht3uTbvCa9N-YknSAcrbGl8sGeVTMFlp1gGRPW3nMiisHB-HT5us6bsrVyDIpCumf0hIOEX5DT5tN~uKmPTkcCpkcXqaI6EKZuR1bTMMgz8Ome6CVoE0C0oW8spIKa2T10kREyCwZi2PPFyi4A7v29h5cj8CNHH96NH2lOS-fJn4WzCKULDBFNXCPrDbuDzbWt3eDfknTASLyWls53BDFpC86KMwK2h2wZx91BtaOCYjCJulJCIIO1JakYCgVgwj9EbnxcPfQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)\]|
 |2018|PR|Super-resolution for biometrics: A comprehensive survey|\[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318300049)\]|
 |2018|CICT|Face Hallucination Techniques: A Survey|\[[paper](https://ieeexplore.ieee.org/abstract/document/8722416)\]|
-|2019|IET-IP|Survey on GAN-based Face Hallucination with its Model Development|\[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2018.6545)\]|
+|2019|IETIP|Survey on GAN-based Face Hallucination with its Model Development|\[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2018.6545)\]|
 |2020|CSUR|Deep Learning-based Face Superresolution: A Survey|\[[paper](https://dl.acm.org/doi/full/10.1145/3485132)\]|
 |2022|Arxiv|A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal|\[[paper](https://arxiv.org/pdf/2211.02831.pdf)\]|
 ## Deep Blind Face Restoration  
