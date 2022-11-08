@@ -46,8 +46,9 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 - [Deep Face Denoising](#deep-face-denoising)
 - [Deep Face Artifact Removal](#deep-face-artifact-removal)
 - [Benchmark Datasets](#benchmark-datasets)
- - [Recommended Datasets](#recommended-datasets)
- - [All Datasets](#all-datasets)
+  - [Recommended Datasets](#recommended-datasets)
+  - [All Datasets](#all-datasets)
+
 ## Surveys
 <!-- |year|Pub|Title|Link|
 |:----:|:----:|:----:|:----:|
