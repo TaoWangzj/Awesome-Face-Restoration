@@ -62,6 +62,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2018|CICT|Face Hallucination Techniques: A Survey|\[[paper](https://ieeexplore.ieee.org/abstract/document/8722416)\]|
 |2019|IET-<br>Image-<br>Processing|Survey on GAN-based Face Hallucination with its Model Development|\[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2018.6545)\]|
 |2020|CSUR|Deep Learning-based Face Superresolution: A Survey|\[[paper](https://dl.acm.org/doi/full/10.1145/3485132)\]|
+|2022|Arxiv|A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal|\[[paper](https://arxiv.org/pdf/2211.02831.pdf)\]|
 ## Deep Blind Face Restoration  
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
 |:---:|:----:|:----:|:----:|:----:|
