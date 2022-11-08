@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">Deep Face Restoartion: Denoise,
 Super-Resolution, Deblur and Artifact Removal </h3>
-  <p align="center">A curated list of resources for Deep Face Restoartion
+  <p align="center">A comprehensive list of resources for Deep Face Restoartion
     <br />
     <br />
     <br />
