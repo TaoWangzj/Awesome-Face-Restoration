@@ -39,14 +39,16 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Related Surveys](#related-surveys)
+- [Surveys](#surveys)
 - [Deep Blind Face Restoration](#deep-blind-face-restoration)
 - [Deep Face Super-Resolution](#deep-face-super-resolution)
 - [Deep Face Deblurring](#deep-face-deblurring)
 - [Deep Face Denoising](#deep-face-denoising)
 - [Deep Face Artifact Removal](#deep-face-artifact-removal)
 - [Benchmark Datasets](#benchmark-datasets)
-## Related Surveys
+ - [Recommended Datasets](#recommended-datasets)
+ - [All Datasets](#all-datasets)
+## Surveys
 <!-- |year|Pub|Title|Link|
 |:----:|:----:|:----:|:----:|
 |2020|TPAMI|Single image deraining: From model-based to data-driven and beyond|\[[paper]()\]|
@@ -60,7 +62,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2014|IJCV|A Comprehensive Survey to Face Hallucination|\[[paper](https://d1wqtxts1xzle7.cloudfront.net/48096013/A_Comprehensive_Survey_to_Face_Hallucina20160816-23072-psaoh5-with-cover-page-v2.pdf?Expires=1667883349&Signature=CO8qTT-ea~qrcn7G6PXKe7lgy8ZephuTzx-9sZx5hJkkZOZipg8ufrsKifsOBKiYoHoNurU9fIcAcht3uTbvCa9N-YknSAcrbGl8sGeVTMFlp1gGRPW3nMiisHB-HT5us6bsrVyDIpCumf0hIOEX5DT5tN~uKmPTkcCpkcXqaI6EKZuR1bTMMgz8Ome6CVoE0C0oW8spIKa2T10kREyCwZi2PPFyi4A7v29h5cj8CNHH96NH2lOS-fJn4WzCKULDBFNXCPrDbuDzbWt3eDfknTASLyWls53BDFpC86KMwK2h2wZx91BtaOCYjCJulJCIIO1JakYCgVgwj9EbnxcPfQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)\]|
 |2018|PR|Super-resolution for biometrics: A comprehensive survey|\[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318300049)\]|
 |2018|CICT|Face Hallucination Techniques: A Survey|\[[paper](https://ieeexplore.ieee.org/abstract/document/8722416)\]|
-|2019|IET-<br>Image-<br>Processing|Survey on GAN-based Face Hallucination with its Model Development|\[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2018.6545)\]|
+|2019|IET-IP|Survey on GAN-based Face Hallucination with its Model Development|\[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2018.6545)\]|
 |2020|CSUR|Deep Learning-based Face Superresolution: A Survey|\[[paper](https://dl.acm.org/doi/full/10.1145/3485132)\]|
 |2022|Arxiv|A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal|\[[paper](https://arxiv.org/pdf/2211.02831.pdf)\]|
 ## Deep Blind Face Restoration  
@@ -144,7 +146,18 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 
 
 
-## Benchmark Datasets  
+## Benchmark Datasets
+
+### Recommended Datasets
+|Dataset|Usage|Quantity|Type|
+|:----:|:----:|:----:|:----:|
+|[EDFace-Celeb](https://github.com/HDCVLab/EDFace-Celeb-1M)|training&testing|>1M|paired dataset|
+|[FFHQ](https://github.com/NVlabs/ffhq-dataset)|training|70,000|non-paired dataset|
+|[CelebChild-Test](https://xinntao.github.io/projects/gfpgan)|testing|180|non-paired real-world dataset|
+|[WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)|testing|407|non-paired real-world dataset|
+|[LFW-Test](https://xinntao.github.io/projects/gfpgan)|testing|1,711|non-paired real-world dataset|
+
+### All Datasets
 |Dataset|Paper|Year|
 |:----:|:----:|:----:|
 |[BioID](https://www.bioid.com/facedb/)|[Robust face detection using the hausdorff distance](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.6915&rep=rep1&type=pdf)|2001|
@@ -172,7 +185,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |[CelebA-Test](https://xinntao.github.io/projects/gfpgan)|[Towards Real-World Blind Face Restoration with Generative Facial Prior](https://Arxiv.org/pdf/2101.04061.pdf)|2021|
 |[LFW-Test](https://xinntao.github.io/projects/gfpgan)|[Towards Real-World Blind Face Restoration with Generative Facial Prior](https://Arxiv.org/pdf/2101.04061.pdf)|2021|
 |[VFHQ](https://liangbinxie.github.io/projects/vfhq/)|[VFHQ: A High-Quality Dataset and Benchmark for Video Face Super-Resolution](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Xie_VFHQ_A_High-Quality_Dataset_and_Benchmark_for_Video_Face_Super-Resolution_CVPRW_2022_paper.pdf)|2022|
-|[EDFace-Celeb-1M](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)|[EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset](https://Arxiv.org/pdf/2110.05031.pdf)|2022|
+|[EDFace-Celeb](https://github.com/HDCVLab/EDFace-Celeb-1M)|[EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset](https://Arxiv.org/pdf/2110.05031.pdf)|2022|
 |[EDFace-Celeb-1M (BFR128)](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)|[Blind Face Restoration: Benchmark Datasets and a Baseline Model](https://Arxiv.org/pdf/2206.03697.pdf)|2022|
 |[EDFace-Celeb-150K (BFR512)](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)|[Blind Face Restoration: Benchmark Datasets and a Baseline Model](https://Arxiv.org/pdf/2206.03697.pdf)|2022|
 
