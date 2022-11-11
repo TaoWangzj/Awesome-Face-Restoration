@@ -45,6 +45,8 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 - [Deep Face Deblurring](#deep-face-deblurring)
 - [Deep Face Denoising](#deep-face-denoising)
 - [Deep Face Artifact Removal](#deep-face-artifact-removal)
+- [Other Related Works](#other-related-works)
+- [Image Quality Assessment](#image-quality-assessment)
 - [Benchmark Datasets](#benchmark-datasets)
   - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets)
@@ -145,7 +147,33 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
 |2022|Arxiv|Multi-prior learning via neural architecture search for blind face restoration|\[[paper](https://Arxiv.org/pdf/2206.13962.pdf)\]\[[code](https://github.com/YYJ1anG/MFPSNet)\]|CNN|
 
+## Other Related Works
+- CG-GAN: Class-Attribute Guided Generative Adversarial Network for Old Photo Restoration, Liu et al., ACMM 2021. [link](https://dl.acm.org/doi/abs/10.1145/3474085.3475666)
+- Old Photo Restoration via Deep Latent Space Translation, Wan et al., TPAMI 2022. [link](https://ieeexplore.ieee.org/abstract/document/9744329/)
+- Demeshnet: Blind Face Inpainting for Deep Meshface Verification, Zhang et al. TIP 2017. [link](https://ieeexplore.ieee.org/abstract/document/8067496)
+- Face Inpainting based on High-level Facial Attributes, Jampour et al., CVIU 2017. [link](https://www.sciencedirect.com/science/article/pii/S1077314217300930)
+- Autoretouch: Automatic Professional Face Retouching, Shafaei et al., WACV 2021. [link](https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf)
+- Network Architecture Search for Face Enhancement, Yasarla et al., Arxiv 2021. [Link](https://arxiv.org/abs/2105.06528)
+- Towards Automatic Face-to-face Translation, KR, R et al., ACMMM 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3343031.3351066)
+- A Sketchtransformer Network for Face Photo-sketch Synthesis, Zhu et al., IJCAI 2021. [Link](https://www.ijcai.org/proceedings/2021/0187.pdf)
 
+## Image Quality Assessment
+|Method|Type|Code/Ref|
+|---|---|---|
+|PSNR (Peak Signal-to-Noise Ratio)|Full-Reference|[Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py)|
+|SSIM (Structural Similarity Index Measurement)|Full-Reference|[Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py)|
+|MS-SSIM (Multi-scale Structural Similarity Index Measurement)|Full-Reference|[Code](https://github.com/VainF/pytorch-msssim/blob/master/pytorch_msssim/ssim.py)|
+|LPIPS (Learned Perceptual Image Patch Similarity)|Full-Reference|[Code](https://github.com/richzhang/PerceptualSimilarity)|
+|NIQE (Naturalness Image Quality Evaluator)|Non-Reference|[Code](https://github.com/utlive/niqe)|
+|FID (Fréchet Inception Distance)|Non-Reference|[Code](https://github.com/bioinf-jku/TTUR)|
+|PI (Perceptual Index)|Non-Reference|[Code](https://github.com/chaoma99/sr-metric)|
+|MOS (Mean Opinion Score)|Subject-Metric|[Ref](https://www.itu.int/rec/R-REC-BT.500/)|
+|iPrecision|Task Driven-Metric|[Ref](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)|
+|iRecall|Task Driven-Metric|[Ref](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)|
+|LLE (Landmark Localization Error)|Task Driven-Metric|[Code](https://github.com/Lotayou/Face-Renovation)|
+|Deg (Identity Distance)|Task Driven-Metric|[Code](https://github.com/TencentARC/GFPGAN)|
+|AFLD (Average Face Landmark Distance)|Task Driven-Metric|[Code](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)|
+|AFICS (Average Face ID Cosine Similarity)|Task Driven-Metric|[Code](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)|
 
 ## Benchmark Datasets
 
