@@ -130,6 +130,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|WACV|Deep Feature Prior Guided Face Deblurring|\[[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jung_Deep_Feature_Prior_Guided_Face_Deblurring_WACV_2022_paper.pdf)\]\[code\]|CNN|
 |2022|Arxiv|Multi-prior learning via neural architecture search for blind face restoration|\[[paper](https://Arxiv.org/pdf/2206.13962.pdf)\]\[[code](https://github.com/YYJ1anG/MFPSNet)\]|CNN|
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
+|2022|SIGGRAPH|Face Deblurring using Dual Camera Fusion on Mobile Phones|\[[paper](https://www.wslai.net/publications/fusion_deblur/)\][code]|CNN|
   
 ## Deep Face Denoising
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
