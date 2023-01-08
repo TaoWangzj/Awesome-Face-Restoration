@@ -154,6 +154,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 - Old Photo Restoration via Deep Latent Space Translation, Wan et al., TPAMI 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9744329/)
 - Demeshnet: Blind Face Inpainting for Deep Meshface Verification, Zhang et al. TIP 2017. [Link](https://ieeexplore.ieee.org/abstract/document/8067496)
 - Face Inpainting based on High-level Facial Attributes, Jampour et al., CVIU 2017. [Link](https://www.sciencedirect.com/science/article/pii/S1077314217300930)
+- ABPN: Adaptive Blend Pyramid Network for Real-Time Local Retouching of Ultra High-Resolution Photo, Lei et al., CVPR 2022. [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_ABPN_Adaptive_Blend_Pyramid_Network_for_Real-Time_Local_Retouching_of_CVPR_2022_paper.pdf)
 - Autoretouch: Automatic Professional Face Retouching, Shafaei et al., WACV 2021. [Link](https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf)
 - Network Architecture Search for Face Enhancement, Yasarla et al., Arxiv 2021. [Link](https://arxiv.org/abs/2105.06528)
 - Towards Automatic Face-to-face Translation, KR, R et al., ACMMM 2019. [Link](https://dl.acm.org/doi/abs/10.1145/3343031.3351066)
