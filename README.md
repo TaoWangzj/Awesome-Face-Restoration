@@ -116,6 +116,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|CVPR|GCFSR: a Generative and Controllable Face Super Resolution Method <br> Without Facial and GAN Priors|\[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_GCFSR_A_Generative_and_Controllable_Face_Super_Resolution_Method_Without_CVPR_2022_paper.pdf)\]\[[code](https://github.com/hejingwenhejingwen/GCFSR)\]|GAN|
 |2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and <br> Parallel Decoder|\[[paper](https://Arxiv.org/pdf/2205.06803.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|
 |2022|TPAMI|EDFace-Celeb-1 M: Benchmarking Face Hallucination with a Million-scale Dataset|\[[paper](https://arxiv.org/pdf/2110.05031.pdf)\]\[[code](https://github.com/HDCVLab/EDFace-Celeb-1M)\]|CNN|
+|2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10036448)\]\[[code](https://github.com/HaoHou-98/SCGAN)\]|GAN|
   
 ## Deep Face Deblurring   
 
