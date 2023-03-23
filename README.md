@@ -90,6 +90,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|Arxiv|FaceFormer: Scale-aware Blind Face Restoration with Transformers|\[[paper](https://Arxiv.org/pdf/2207.09790.pdf)\]\[[code](https://shangchenzhou.com/projects/CodeFormer)\]|ViT|
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
 |2022|TPAMI|Learning Dual Memory Dictionaries for Blind Face Restoration|\[[paper](https://arxiv.org/pdf/2210.08160.pdf)\]\[[code](https://github.com/csxmli2016/DMDNet)\]|CNN|
+|2023|CVPR|DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://arxiv.org/abs/2303.06885)\]\[[code]()\]|Diffusion|
 
 ## Deep Face Super-Resolution  
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
