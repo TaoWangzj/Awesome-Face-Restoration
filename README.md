@@ -89,6 +89,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|AAAI|Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|\[[paper](https://arxiv.org/pdf/2203.08444.pdf)\]\[[code](https://github.com/jianzhangcs/panini)\]|GAN|
 |2022|Arxiv|FaceFormer: Scale-aware Blind Face Restoration with Transformers|\[[paper](https://Arxiv.org/pdf/2207.09790.pdf)\]\[[code](https://shangchenzhou.com/projects/CodeFormer)\]|ViT|
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
+|2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and <br> Parallel Decoder|\[[paper](https://Arxiv.org/pdf/2205.06803.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|  
 |2022|TPAMI|Learning Dual Memory Dictionaries for Blind Face Restoration|\[[paper](https://arxiv.org/pdf/2210.08160.pdf)\]\[[code](https://github.com/csxmli2016/DMDNet)\]|CNN|
 |2023|CVPR|DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://arxiv.org/abs/2303.06885)\]\[code\]|Diffusion|
 
@@ -115,7 +116,6 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2021|MM|Face Hallucination via Split-Attention in Split-Attention Network|\[[paper](https://Arxiv.org/pdf/2010.11575.pdf)\]\[[code](https://github.com/mdswyz/SISN-Face-Hallucination)\]|CNN|
 |2021|ICIP|Progressive Face Super-Resolution with Non-Parametric Facial Prior Enhancement|\[[paper](https://ieeexplore.ieee.org/abstract/document/9506610)\]\[[code](https://github.com/BenjaminJonghyun/NPFNet)\]|GAN|
 |2022|CVPR|GCFSR: a Generative and Controllable Face Super Resolution Method <br> Without Facial and GAN Priors|\[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_GCFSR_A_Generative_and_Controllable_Face_Super_Resolution_Method_Without_CVPR_2022_paper.pdf)\]\[[code](https://github.com/hejingwenhejingwen/GCFSR)\]|GAN|
-|2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and <br> Parallel Decoder|\[[paper](https://Arxiv.org/pdf/2205.06803.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|
 |2022|TPAMI|EDFace-Celeb-1 M: Benchmarking Face Hallucination with a Million-scale Dataset|\[[paper](https://arxiv.org/pdf/2110.05031.pdf)\]\[[code](https://github.com/HDCVLab/EDFace-Celeb-1M)\]|CNN|
 |2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10036448)\]\[[code](https://github.com/HaoHou-98/SCGAN)\]|GAN|
   
