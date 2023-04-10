@@ -90,7 +90,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|CVPR|RestoreFormer: High-Quality Blind Face Restoration <br> from Undegraded Key-Value Pairs|\[[paper](https://Arxiv.org/pdf/2201.06374.pdf)\]\[[code](https://github.com/wzhouxiff/RestoreFormer)\]|ViT|
 |2022|NeurIPS|Towards Robust Blind Face Restoration with Codebook Lookup Transformer|\[[paper](https://Arxiv.org/pdf/2206.11253.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|ViT|
 |2022|AAAI|Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|\[[paper](https://arxiv.org/pdf/2203.08444.pdf)\]\[[code](https://github.com/jianzhangcs/panini)\]|GAN|
-|2022|Arxiv|FaceFormer: Scale-aware Blind Face Restoration with Transformers|\[[paper](https://Arxiv.org/pdf/2207.09790.pdf)\]\[[code](https://shangchenzhou.com/projects/CodeFormer)\]|ViT|
+|2022|Arxiv|FaceFormer: Scale-aware Blind Face Restoration with Transformers|\[[paper](https://Arxiv.org/pdf/2207.09790.pdf)\]\[code\]|ViT|
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
 |2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|\[[paper](https://Arxiv.org/pdf/2205.06803.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|  
 |2022|TPAMI|Learning Dual Memory Dictionaries for Blind Face Restoration|\[[paper](https://arxiv.org/pdf/2210.08160.pdf)\]\[[code](https://github.com/csxmli2016/DMDNet)\]|CNN|
