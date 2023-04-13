@@ -88,7 +88,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|Arxiv|Multi-prior learning via neural architecture search for blind face restoration|\[[paper](https://Arxiv.org/pdf/2206.13962.pdf)\]\[[code](https://github.com/YYJ1anG/MFPSNet)\]|CNN|
 |2022|CVPR|Blind Face Restoration via Integrating Face Shape and Generative Priors|\[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.pdf)\]~~\[[code](https://github.com/TencentYoutuResearch/BFR-SGPN)\]~~|GAN|
 |2022|CVPR|RestoreFormer: High-Quality Blind Face Restoration <br> from Undegraded Key-Value Pairs|\[[paper](https://Arxiv.org/pdf/2201.06374.pdf)\]\[[code](https://github.com/wzhouxiff/RestoreFormer)\]|ViT|
-|2022|NeurIPS|Towards Robust Blind Face Restoration with Codebook Lookup Transformer|\[[paper](https://Arxiv.org/pdf/2206.11253.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|ViT|
+|2022|NeurIPS|Towards Robust Blind Face Restoration with Codebook Lookup Transformer|\[[paper](https://Arxiv.org/pdf/2206.11253.pdf)\]\[[code](https://github.com/sczhou/CodeFormer)\]|ViT|
 |2022|AAAI|Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|\[[paper](https://arxiv.org/pdf/2203.08444.pdf)\]\[[code](https://github.com/jianzhangcs/panini)\]|GAN|
 |2022|Arxiv|FaceFormer: Scale-aware Blind Face Restoration with Transformers|\[[paper](https://Arxiv.org/pdf/2207.09790.pdf)\]\[code\]|ViT|
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
