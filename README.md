@@ -122,6 +122,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|TPAMI|EDFace-Celeb-1 M: Benchmarking Face Hallucination with a Million-scale Dataset|\[[paper](https://arxiv.org/pdf/2110.05031.pdf)\]\[[code](https://github.com/HDCVLab/EDFace-Celeb-1M)\]|CNN|
 |2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10036448)\]\[[code](https://github.com/HaoHou-98/SCGAN)\]|GAN|
 |2023|AAAI|GAN Prior based Null-Space Learning for Consistent Super-Resolution|\[[paper](https://arxiv.org/pdf/2211.13524.pdf)\]\[[code](https://github.com/wyhuai/RND)\]|GAN|
+|2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|\[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf)\]\[[code](https://github.com/wcy-cs/SFMNet)\]|CNN| 
   
 ## Deep Face Deblurring   
 
