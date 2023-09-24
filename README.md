@@ -94,7 +94,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
 |2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|\[[paper](https://Arxiv.org/pdf/2205.06803.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|  
 |2022|TPAMI|Learning Dual Memory Dictionaries for Blind Face Restoration|\[[paper](https://arxiv.org/pdf/2210.08160.pdf)\]\[[code](https://github.com/csxmli2016/DMDNet)\]|CNN|
-|2023|CVPR|DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://arxiv.org/abs/2303.06885)\]\[code\]|Diffusion|
+|2023|CVPR|DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://arxiv.org/abs/2303.06885)\]\[[code]([https://github.com/csxmli2016/DMDNet](https://github.com/Kaldwin0106/DR2_Drgradation_Remover))\]|Diffusion|
 
 ## Deep Face Super-Resolution  
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
