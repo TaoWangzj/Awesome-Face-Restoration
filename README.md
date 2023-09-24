@@ -244,7 +244,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 <details>
 <summary>statistics</summary>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TaoWangzj/Awesome-Face-Restoration)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TaoWangzj/Awesome-Face-Restoration)
 
 </details>
 
