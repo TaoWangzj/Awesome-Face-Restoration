@@ -94,7 +94,12 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2022|Arxiv|Blind Face Restoration: Benchmark Datasets and a Baseline Model|\[[paper](https://Arxiv.org/pdf/2206.03697.pdf)\]\[[code](https://github.com/bitzpy/blind-face-restoration-benchmark-datasets-and-a-baseline-model)\]|ViT|
 |2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|\[[paper](https://Arxiv.org/pdf/2205.06803.pdf)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|  
 |2022|TPAMI|Learning Dual Memory Dictionaries for Blind Face Restoration|\[[paper](https://arxiv.org/pdf/2210.08160.pdf)\]\[[code](https://github.com/csxmli2016/DMDNet)\]|CNN|
+|2022|Arxiv|Difface: Blind Face Restoration with Diffused Error Contraction|\[[paper](https://arxiv.org/pdf/2212.06512.pdf?trk=public_post_comment-text)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
 |2023|CVPR|DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://arxiv.org/abs/2303.06885)\]\[[code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)\]|Diffusion|
+|2023|CVPR|TFRGAN: Leveraging Text Information for Blind Face Restoration with Extreme Degradation|\[[paper](https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf)\]\[code\]|GAN|
+|2023|TCSVT|DEAR-GAN: Degradation-Aware Face Restoration With GAN Prior|\[[paper](https://ieeexplore.ieee.org/abstract/document/10044117)\]\[code\]|GAN|
+|2023|FSP|Degradation Learning and Skip-Transformer for Blind Face Restoration|\[[paper](https://www.frontiersin.org/articles/10.3389/frsip.2023.1106465/full)\]\[code\]|GAN|
+|2023|WACV|AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|\[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Nair_AT-DDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf)\]\[[code](https://github.com/Nithin-GK/AT-DDPM)\]|Diffusion|
 
 ## Deep Face Super-Resolution  
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
@@ -123,9 +128,17 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10036448)\]\[[code](https://github.com/HaoHou-98/SCGAN)\]|GAN|
 |2023|AAAI|GAN Prior based Null-Space Learning for Consistent Super-Resolution|\[[paper](https://arxiv.org/pdf/2211.13524.pdf)\]\[[code](https://github.com/wyhuai/RND)\]|GAN|
 |2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|\[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf)\]\[[code](https://github.com/wcy-cs/SFMNet)\]|CNN| 
-  
-## Deep Face Deblurring   
+|2023|TMM|Sctanet: A Spatial Attention-guided Cnn-transformer Aggregation Network for Deep Face Image Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10023973)\]\[code\]|ViT|
+|2023|TMM|An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10145603)\]\[[code](https://github.com/FVL2020/ELSFace)\]|ViT|
+|2023|TMM|Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10207832)\]\[[code](https://github.com/jingang-cv/DBTC)\]|ViT|
+|2023|PR|A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002030)\]\[code\]|ViT|
+|2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|\[[paper](https://arxiv.org/pdf/2205.03777.pdf)\]\[[code](https://github.com/HaoHou-98/SCGAN)\]|GAN|
+|2023|AS|A Multi-Scale Deep Back-Projection Backbone for Face Super-Resolution with Diffusion Models|\[[paper](https://www.mdpi.com/2076-3417/13/14/8110)\][code]|Diffusion|
+|2023|TIM|Deep HyFeat Based Attention in Attention Model for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10044127)\][code]|CNN|
+|2023|PRL|Attentive ExFeat based Deep Generative Adversarial Network for Noise Robust Face Super-resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10044127)\][code]|GAN|
+|2023|NN|Self-attention Learning Network for Face Super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023000060)\][code]|CNN|
 
+## Deep Face Deblurring   
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2017|Arxiv|DeepDeblur: Fast one-step blurry face images restoration|\[[paper](https://Arxiv.org/pdf/1711.09515.pdf)\]\[code\]|CNN|
