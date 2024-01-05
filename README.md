@@ -206,6 +206,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |Dataset|Usage|Quantity|Type|
 |:----:|:----:|:----:|:----:|
 |[EDFace-Celeb](https://github.com/HDCVLab/EDFace-Celeb-1M)|training&testing|>1M|paired dataset|
+|[PFHQ](https://github.com/chenxx89/BFRffusion)|training|60,000|paired dataset|
 |[FFHQ](https://github.com/NVlabs/ffhq-dataset)|training|70,000|non-paired dataset|
 |[CelebChild-Test](https://xinntao.github.io/projects/gfpgan)|testing|180|non-paired real-world dataset|
 |[WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)|testing|407|non-paired real-world dataset|
