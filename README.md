@@ -100,7 +100,10 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2023|TCSVT|DEAR-GAN: Degradation-Aware Face Restoration With GAN Prior|\[[paper](https://ieeexplore.ieee.org/abstract/document/10044117)\]\[code\]|GAN|
 |2023|FSP|Degradation Learning and Skip-Transformer for Blind Face Restoration|\[[paper](https://www.frontiersin.org/articles/10.3389/frsip.2023.1106465/full)\]\[code\]|GAN|
 |2023|WACV|AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|\[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Nair_AT-DDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf)\]\[[code](https://github.com/Nithin-GK/AT-DDPM)\]|Diffusion|
-|2023|Arxiv|Towards Real-World Blind Face Restoration withGenerative Diffusion Prior|\[[paper](https://arxiv.org/pdf/2312.15736.pdf)\]\[[code](https://github.com/chenxx89/BFRffusion)\]|Diffusion|
+|2023|ACMMM|DiffBFR: Bootstrapping Diffusion Model for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611731)\]\[code\]|Diffusion|
+|2024|TCSVT|Towards Real-World Blind Face Restoration with Generative Diffusion Prior|\[[paper](https://arxiv.org/pdf/2312.15736.pdf)\]\[[code](https://github.com/chenxx89/BFRffusion)\]|Diffusion|
+|2024|WACV|Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration|\[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Suin_Diffuse_and_Restore_A_Region-Adaptive_Diffusion_Model_for_Identity-Preserving_Blind_WACV_2024_paper.pdf)\]\[code\]|Diffusion|
+|2024|AAAI|Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior Fusion for Superior Structural and Texture Recovery|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27889/27803)\]\[code\]|Diffusion|
 
 
 ## Deep Face Super-Resolution  
