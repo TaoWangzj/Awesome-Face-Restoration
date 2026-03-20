@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">Deep Face Restoration: A Survey </h3>
-  <p align="center">A comprehensive list of resources for Deep Face Restoartion
+  <p align="center">A comprehensive list of resources for Deep Face Restoration
     <br />
     <br />
     <br />
@@ -14,7 +14,7 @@
 
 
 This repository provides a summary of deep learning-based face restoration algorithms. 
-Our classification is based on the review paper "A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal".
+Our classification is based on the review paper "Deep Face Restoration: A Survey".
 
 | <img src="./figures/full.gif"  height=224 width=224 alt="Blind face restoration"> | <img src="./figures/LR.gif" width=224 height=224 alt="Face super-resolution"> | <img src="./figures/blur.gif" height=224 width=224 alt="Face deblurring"> |<img src="./figures/noise.gif" height=224 width=224 alt="Face denoising"> |<img src="./figures/jpeg.gif" height=224 width=224 alt="Face artifact removal"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
