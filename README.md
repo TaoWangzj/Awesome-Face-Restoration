@@ -21,7 +21,7 @@ Our classification is based on the review paper "Deep Face Restoration: A Survey
 |           Blind Face Restoration                          |                      Face Super-Resolution                                | Face Deblurring</font>        |Face Denoising    | Face Artifact Removal
 
 ## Survey paper
-T. Wang, k. Zhang, J. Deng, T. Lu, W. Liu, and S. Zafeiriou “Deep Face Restoration: A Survey,” ACM Computing Survey, 2026. [[pdf](https://arxiv.org/pdf/2211.02831.pdf)]
+T. Wang, k. Zhang, J. Deng, T. Lu, W. Liu, and S. Zafeiriou “Deep Face Restoration: A Survey,” ACM Computing Surveys, 2026. [[pdf](https://arxiv.org/pdf/2211.02831.pdf)]
 
 ```
 @article{wang2022survey
