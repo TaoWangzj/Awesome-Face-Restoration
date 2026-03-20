@@ -24,8 +24,8 @@ Our classification is based on the review paper "Deep Face Restoration: A Survey
 T. Wang, k. Zhang, J. Deng, T. Lu, W. Liu, and S. Zafeiriou “Deep Face Restoration: A Survey,” ACM Computing Surveys, 2026. [[pdf](https://arxiv.org/pdf/2211.02831.pdf)]
 
 ```
-@article{wang2022survey
-  title={A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal},
+@article{wang2022deep,
+  title={Deep Face Restoration: A Survey},
   author={Wang, Tao and Zhang, Kaihao and Deng, Jiankang and Lu, Tong and Liu, Wei and Zafeiriou, Stefanos},
   journal={arXiv preprint arXiv:2211.02831},
   year={2022}
